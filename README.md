@@ -12,7 +12,7 @@ The MalimaToken smart contract is an Ethereum-based token contract that allows u
 **Token Information**
 
 - Token Name: MalimaToken
-- Token Abbreviation: MLK
+- Token Abbreviation: MLT
 
 **Contract Overview**
 
