@@ -45,7 +45,7 @@ The burn function allows the contract creator to decrease the total supply and t
 The function verifies that the contract creator has enough balance before proceeding with the token burning process.
 
 # Author
-Samaila Anthony Malima
+[[Samaila Anthony Malima](https://github.com/samailamalima)] 
 
 # License
-This project is licensed under the GPL 3.0 License.
+This project is licensed under the [GPL 3.0] License.
