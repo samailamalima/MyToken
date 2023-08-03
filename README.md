@@ -20,7 +20,7 @@ To run this program, you can utilize Remix, an online Solidity IDE. Follow these
 3. Copy and paste the provided code into the file.
 
 # Usage
-To utilize the EPBToken contract, deploy it to a network of your choice and interact with its functions using a web3 provider like MetaMask or a similar tool.
+To utilize the MalimaToken contract, deploy it to a network of your choice and interact with its functions using a web3 provider like MetaMask or a similar tool.
 
 # Constructor
 The MalimaToken contract comes with a constructor that takes three parameters:
